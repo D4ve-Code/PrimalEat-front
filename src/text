@@ -1,0 +1,11 @@
+virer app.test
+installer
+nodemon
+react-router
+sass
+
+créer
+ dossier:   components
+            screens
+            styles
+            assets
